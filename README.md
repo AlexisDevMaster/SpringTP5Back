@@ -13,7 +13,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">SpringTP5BAck</h3>
+  <h3 align="center">SpringTP5Back</h3>
 
   <p align="center">
     This repo contains all back server used for realize this TP

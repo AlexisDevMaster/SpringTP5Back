@@ -1,10 +1,10 @@
-package spring.tp5.discovery;
+package fst.spring.tp5.proxy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DiscoveryApplicationTests {
+class ProxyApplicationTests {
 
     @Test
     void contextLoads() {

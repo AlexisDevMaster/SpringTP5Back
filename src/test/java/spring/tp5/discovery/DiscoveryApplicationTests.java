@@ -1,10 +1,10 @@
-package fst.spring.tp5.config_server;
+package spring.tp5.discovery;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigServerApplicationTests {
+class DiscoveryApplicationTests {
 
     @Test
     void contextLoads() {
